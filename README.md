@@ -1,2 +1,1 @@
-# AI_Assignments
-Repository with Artificial Intelligence assignments
+Repository with Artificial Intelligence Applications
