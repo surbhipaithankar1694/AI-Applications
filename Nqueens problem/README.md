@@ -8,5 +8,5 @@ The N-Queens problem is: Given an empty NxN chessboard, place N Queens on the bo
 This program takes 4 argument: 
 1. Problem type (nqueen/nrook) 
 2. Number of queens/rooks to be placed. 
-3. row number of Unavailable cell 
+3. Row number of unavailable cell 
 4. Col number of unavailable cell 
