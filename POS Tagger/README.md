@@ -1,4 +1,4 @@
-Title: To find POS tags of every word of a given sentence using hidden Markov model.
+**Title: To find POS tags of every word of a given sentence using hidden Markov model.**
 
 To run code: python label.py part2 training_file testing_file
 
