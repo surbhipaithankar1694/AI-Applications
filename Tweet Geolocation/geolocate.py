@@ -176,13 +176,17 @@ while i<len(testlist):
 op_file = open(str(sys.argv[3]),"wa")
 i = 0
 elem3=""
+correct = 0.0
 while i<len(testlist):
   elem1 = city_list[i]
   elem2 = testlist1[i][0]
   elem3 = testlist[i][1:]
   L = str(elem1) + " " + str(elem2)+ " "+str(elem3)
   op_file.write(L+"\n")
+  if elem1==elem2:
+    correct+=1
   i = i+1
+print "accuracy:",correct/len(testlist)*100
 
 
 #Below we find the top 5 words associated with each city and display on the output console.
