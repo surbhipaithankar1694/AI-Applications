@@ -4,4 +4,4 @@ Tweet Classification - Using Naive Bayes Estimate where a Twitter "tweet" was se
 USAGE :  
 ./geolocate.py tweets.train.txt tweets.test1.txt output.txt
 
-Please refer geolocation_eport.pdf for further details.
+Please refer geolocation_report.pdf for further details.
